@@ -1,0 +1,1 @@
+RUN pip3 install --trusted-host pypi.python.org --no-cache-dir -r requirements.txt
